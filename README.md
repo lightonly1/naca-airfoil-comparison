@@ -1,4 +1,5 @@
 # Parametric 4-Digit NACA Airfoil Computational Geometry & API Framework 
+[![Python CI](https://github.com/lightonly1/NACA-Airfoil-Comparison/actions/workflows/main.yml/badge.svg)](https://github.com/lightonly1/NACA-Airfoil-Comparison/actions/workflows/main.yml)
 
 A high-fidelity computational geometry pipeline and enterprise REST API engineered to parse data-driven spatial profiles, execute numerical exploratory analytics and dynamically stream parametric 3D coordinate matrices. Built using functional vector math engines and wrapped in a high-performance FastAPI microservice layer, this framework serves CAD-ready spatial points on-demand for downstream aerodynamic design and engineering simulation workflows.
 
